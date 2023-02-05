@@ -7,3 +7,6 @@ change the database credentials
 makemigrations
 
 runserver
+
+/restaurant/menu
+/restaurant/booking
