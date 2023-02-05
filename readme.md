@@ -1,5 +1,5 @@
 Steps:
-    activate virtual env
-    change the database credentials
-    makemigrations
-    runserver
+    activate virtual env\n
+    change the database credentials\n
+    makemigrations\n
+    runserver\n
