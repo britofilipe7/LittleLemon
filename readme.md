@@ -1,3 +1,5 @@
+Capstone project for Meta Back-End Developer course from Coursera
+
 Steps:
 
 activate virtual env,
